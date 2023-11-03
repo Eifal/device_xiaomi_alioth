@@ -12,6 +12,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="maintainer_name">𝗘𝗶𝗳𝗮𝗹</string>
+    <string name="build_maintainer_summary" translatable="false">𝗘𝗶𝗳𝗮𝗹</string>
+    <string name="build_maintainer_donate_url" translatable="false">https://github.com/Eifal</string>
 
 </resources>
